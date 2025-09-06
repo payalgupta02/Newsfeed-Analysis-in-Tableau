@@ -15,7 +15,8 @@ The Newsfeed was designed to boost learner engagement and community interaction.
 ### Dataset & Tools
 **Dataset:** Newsfeed activity logs including Posts, Likes, Comments, and User Activity  
 **Period Covered:** Jan–May 2023  
-**Key Fields:** Post Date, Post Subtype, Number of Posts, Number of Likes, Number of Comments, User Visits, User Engagement  
+**Key Fields:** Post Date, Post Subtype, Number of Posts, Number of Likes, Number of Comments, User Visits, User Engagement
+
 **Tableau dashboard/story URL:** https://public.tableau.com/views/NEWSFEEDFEATUREANALYSISOF365DataScience/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Tools Used:**  
